@@ -1,0 +1,5 @@
+- **Handwritten Signature Verification**
+  - CNN-based system to verify genuine vs forged signatures
+  - Used image preprocessing, model training, and evaluation
+  - Dataset hosted on Hugging Face: [Handwritten Signatures Dataset](https://huggingface.co/vaishnavi-kulkarni/handwritten-signatures)
+  - Model hosted on Hugging Face: [Signature Verification Model](https://huggingface.co/vaishnavi-kulkarni/signature-verification-model)
